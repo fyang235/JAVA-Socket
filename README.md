@@ -10,7 +10,7 @@
     CLASS_PATH="path/to/jar/file/client_server.jar"
 
 5. use jar file:
-    a. open a termimal and tpye:  
-        java -cp server.jar com.orbbec.socket.server.GreetingServer 6066
-    b. open another terminal and type:  
-        java -cp server.jar com.orbbec.socket.client.GreetingClient localhost 6066
+    a. open a termimal and tpye:    
+        java -cp server.jar com.orbbec.socket.server.GreetingServer 6066  
+    b. open another terminal and type:    
+        java -cp server.jar com.orbbec.socket.client.GreetingClient localhost 6066  
